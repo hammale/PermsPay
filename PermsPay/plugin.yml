@@ -1,0 +1,11 @@
+name: PermsPay
+main: me.hammale.PermsPay.PermsPay
+version: 1.0
+author: hammale
+depend:
+- PermissionsEx
+- Vault
+commands:
+  permspay:
+    description:
+    usage: |
